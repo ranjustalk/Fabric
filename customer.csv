@@ -1,0 +1,19 @@
+Order Priority,Discount,Unit Price,Shipping Cost,Customer ID,Customer Name,Ship Mode,Customer Segment
+High,0.01,2.84,0.93,3,Bonnie Potter,Express Air,Corporate
+Not Specified,0.02,500.98,26,5,Ronnie Proctor,Delivery Truck,Home Office
+Critical,0.06,9.48,7.29,11,Marcus Dunlap,Regular Air,Home Office
+Medium,0.09,78.69,19.99,14,Gwendolyn F Tyson,Regular Air,Small Business
+Medium,0.08,3.28,2.31,14,Gwendolyn F Tyson,Regular Air,Small Business
+Medium,0.05,3.28,4.2,14,Gwendolyn F Tyson,Regular Air,Small Business
+Medium,0.05,3.58,1.63,14,Gwendolyn F Tyson,Regular Air,Small Business
+Critical,0,4.42,4.99,15,Timothy Reese,Regular Air,Small Business
+Medium,0.01,35.94,6.66,15,Timothy Reese,Regular Air,Small Business
+High,0.04,2.98,1.58,16,Sarah Ramsey,Regular Air,Small Business
+High,0.05,115.99,2.5,16,Sarah Ramsey,Regular Air,Small Business
+High,0.05,26.48,6.93,18,Laurie Hanna,Regular Air,Small Business
+Not Specified,0.07,12.99,9.44,19,Jim Rodgers,Regular Air,Small Business
+High,0.05,26.48,6.93,21,Tony Wilkins Winters,Regular Air,Small Business
+Not Specified,0.08,5,3.39,21,Tony Wilkins Winters,Regular Air,Small Business
+Not Specified,0.07,12.99,9.44,21,Tony Wilkins Winters,Regular Air,Small Business
+High,0.06,55.48,14.3,24,Edna Thomas,Regular Air,Corporate
+High,0.02,1.68,1.57,24,Edna Thomas,Regular Air,Corporate
