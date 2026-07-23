@@ -1,0 +1,23 @@
+{
+"config"
+ [
+   {
+      "file":"salesorder",
+      "key":[
+         "Order ID"
+      ]
+   },
+   {
+      "file":"customer",
+      "key":[
+         "Customer ID"
+      ]
+   },
+   {
+      "file":"product",
+      "key":[
+         "Product ID"
+      ]
+   }
+ ]
+}
